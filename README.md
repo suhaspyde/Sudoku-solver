@@ -1,25 +1,4 @@
-<p align="center">
-  <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
-  <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
-  <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
-    </a>
-  </p>
-</p>
-<p align="center">
-	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-</p>
-<p align="center">   
-	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
-    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-</p>
-
-
+# Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
 - Are you ready to put your logical thinking and reasoning skills to the test? Look no further than Sudoku Solver, the ultimate tool for solving Sudoku puzzles quickly and easily.
 
 - Sudoku is a popular number-placement puzzle game that requires players to fill a nine-by-nine grid with digits so that each row, column, and 3x3 section contains numbers between 1 and 9, with each number used once and only once in each section. It's a challenging game that helps improve concentration, memory, and cognitive abilities.
